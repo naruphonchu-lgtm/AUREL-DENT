@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aurel-dent-spearmint-30",
+    "name": "AUREL DENT Spearmint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30 ml",
+    "price": 49,
+    "image": "images/spearmint.jpg",
+    "description": "กลิ่นสเปียร์มินต์เย็นสดชื่น ขนาดพกพา 30 ml ฉีดง่าย เหมาะกับใส่กระเป๋าไว้เติมความสดชื่นระหว่างวัน"
+  },
+  {
+    "id": "aurel-dent-spearmint-100",
+    "name": "AUREL DENT Spearmint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100 ml",
+    "price": 99,
+    "image": "images/spearmint.jpg",
+    "description": "กลิ่นสเปียร์มินต์เย็นสดชื่น ขนาดคุ้มค่า 100 ml วางไว้ที่บ้านหรือที่ทำงาน ใช้ได้ยาวนานทั้งเช้าและก่อนนอน"
+  },
+  {
+    "id": "aurel-dent-coolmint-30",
+    "name": "AUREL DENT Cool Mint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30 ml",
+    "price": 49,
+    "image": "images/coolmint.jpg",
+    "description": "กลิ่นคูลมินต์เย็นโปร่ง ขนาดพกพา 30 ml หยิบติดตัวไปเที่ยวหรือไปทำงานได้ทุกวัน"
+  },
+  {
+    "id": "aurel-dent-coolmint-100",
+    "name": "AUREL DENT Cool Mint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100 ml",
+    "price": 99,
+    "image": "images/coolmint.jpg",
+    "description": "กลิ่นคูลมินต์เย็นโปร่ง ขนาดคุ้มค่า 100 ml สำหรับคนที่อยากมีไว้ใช้ประจำที่บ้าน"
+  }
+]
